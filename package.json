@@ -2,7 +2,7 @@
   "name": "swcleancode",
   "version": "1.0.0",
   "description": "Este é um projeto de prova prática para praticar refatoração de código com base nos princípios do livro \"Clean Code\" de Robert C. Martin.",
-  "main": "index.js",
+  "main": "swapi.js",
  "scripts": {
     "lint": "eslint .", 
     "lint:fix": "eslint --fix .", 
